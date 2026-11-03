@@ -2,6 +2,8 @@
 
 Developer with a passion for coding (and gaming in general)
 
+![](https://komarev.com/ghpvc/?username=EmAlter&color=yellow&style=for-the-badge&abbreviated=true)
+
 ---
 
 ## 🧰 What I know

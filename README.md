@@ -27,3 +27,4 @@ Developer with a passion for coding (and gaming in general)
 
 ![JetBrains](https://img.shields.io/badge/JetBrains-favorite-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)

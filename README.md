@@ -17,6 +17,7 @@ Developer with a passion for coding (and gaming in general)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
 
 ## 🌱 What I'm learning
